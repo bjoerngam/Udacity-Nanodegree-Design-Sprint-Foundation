@@ -1,2 +1,3 @@
-"# Udacity_Nanodegree_Design_Sprint_Foundation" 
-"# Udacity_Nanodegree_Design_Sprint_Foundation" 
+My final project for the Udacity Nanodegree Design Sprint Foundation.
+
+The Design Sprint covers a fictional scooter rental company: Oooup.
